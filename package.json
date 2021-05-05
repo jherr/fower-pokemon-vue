@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fower/vue": "^1.5.0",
+    "@fower/vue-template-compiler": "^1.5.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
